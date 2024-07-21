@@ -43,7 +43,7 @@
 
 **wqwda44**
 
-For donate: (USDT TRC-20) TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh 
+For donate: (USDT TRC-20) TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh
 
 
 My telegram channel: [wqwda44](https://t.me/tryhackme2)
