@@ -42,8 +42,12 @@
 ## Автор
 
 **wqwda44**
+
 For donate: (USDT TRC-20) TQnq1BK69FGFT2VBMPQ2Hot1ZT9vnyHKPh 
+
+
 My telegram channel: ![wqwda44](https://t.me/tryhackme2)
+
 ## Поддержка
 
 Если у вас есть вопросы или предложения, пожалуйста, создайте issue или pull request.
